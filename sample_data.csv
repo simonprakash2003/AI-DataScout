@@ -1,0 +1,7 @@
+clinic_name,suburb,state,postcode,phone,website,services,source_url,last_verified
+Example Family GP,Parramatta,NSW,2150,02 9000 1000,https://example.org/family-gp,"General practice; Preventive care",https://example.org/directory,2026-10-01
+Harbour Medical Clinic,Sydney,NSW,2000,02 9000 2000,https://example.org/harbour-medical,"General practice; Women's health",https://example.org/directory,2026-10-02
+Northside General Practice,Melbourne,VIC,3000,03 9000 3000,https://example.org/northside-gp,"General practice; Chronic disease management",https://example.org/open-data,2026-10-03
+Riverbend Family Clinic,Brisbane,QLD,4000,07 3000 4000,https://example.org/riverbend,"General practice; Preventive care",https://example.org/open-data,2026-10-04
+Coastal GP Centre,Perth,WA,6000,08 6000 5000,https://example.org/coastal-gp,"General practice; Immunisation",https://example.org/directory,2026-10-05
+Central Health Practice,Adelaide,SA,5000,08 7000 6000,https://example.org/central-health,"General practice; Family medicine",https://example.org/directory,2026-10-06
